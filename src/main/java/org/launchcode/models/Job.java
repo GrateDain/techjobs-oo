@@ -1,5 +1,7 @@
 package org.launchcode.models;
 
+import javax.validation.constraints.NotNull;
+
 /**
  * Created by LaunchCode
  */
